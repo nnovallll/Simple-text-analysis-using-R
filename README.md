@@ -48,11 +48,11 @@ The analysis is structured in the following steps:
 7. **Aspect-Based Sentiment Analysis**: Extract and analyze sentiments for different aspects.
 8. **Bigram Analysis**: Perform bigram analysis and visualize the bigram network.
 
-For detailed syntax and code, please refer to the [analysis.R](analysis.R) file in this repository.
+For detailed syntax and code, please refer to the [text-analysis.R](text-analysis.R) file in this repository.
 
 ## Results and Findings
 
-The detailed analysis and results are documented in the `analysis.R` script and visualizations provided in this repository. Key findings and insights are summarized in the final report.
+The detailed analysis and results are documented in the `text-analysis.R` script and visualizations provided in this repository. Key findings and insights are summarized in the final report.
 
 ## Contributing
 
